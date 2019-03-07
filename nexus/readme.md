@@ -1,8 +1,9 @@
 # How to install nexus on Centos7
 
+```shell
 #install openjdk
-
 sudo yum -y install java-1.8.0-openjdk
+```
 
 #install wget
 
